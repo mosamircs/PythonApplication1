@@ -42,3 +42,6 @@ while num<=10:
 	num+=1
 #loop condition
 loop_condition=True
+while loop_condition==True:
+	print("Loop Condition keeps %s"%(loop_condition))
+	loop_condition=False
